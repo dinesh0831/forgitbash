@@ -1,0 +1,17 @@
+header
+{
+ font-family: Arial, Helvetica, sans-serif;
+ width: auto;
+ background-color: yellowgreen;
+ padding-top: 10px;
+ padding-bottom: 10px;
+ padding-left: 10px;
+}
+header li{
+    display:inline-block
+}
+header li a{
+    text-decoration: none;
+    color:yellow;
+    padding-right: 40px;
+}
